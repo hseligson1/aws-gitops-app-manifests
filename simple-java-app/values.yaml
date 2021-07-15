@@ -4,7 +4,7 @@
 
 replicaCount: 1
 image:
-  repository: kostiscodefresh/my-app-image
+  repository: hseligson/my-app-image
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: c34ca15
+  tag: 5565d3d
